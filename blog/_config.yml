@@ -1,0 +1,13 @@
+# Site settings
+title: 留学生编程指导代做
+email: 1215714557@qq.com 
+description: > # this means to ignore newlines until "baseurl:"
+  专业留学生编程指导代做
+  请联系qq： 1215714557
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://codesedu.github.com" # the base hostname & protocol for your site
+twitter_username: codesedu
+github_username:  codesedu
+
+# Build settings
+markdown: kramdown
